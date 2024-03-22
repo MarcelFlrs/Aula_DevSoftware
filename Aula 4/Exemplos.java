@@ -46,6 +46,10 @@ public class Exemplos {
     System.out.printf("O valor da variável a é: %d%n", a);
 
     System.out.printf("O valor da variável b é: %d%n", b);
+    System.out.printf("O valor da variável b é: %d%n", e);
+    System.out.printf("O valor da variável b é: %d%n", f);
+    System.out.printf("O valor da variável b é: %d%n", g);
+    System.out.printf("O valor da variável b é: %d%n", h);
 
     System.out.printf("O valor mínimo de int é %d e o valor máximo é %d %n", Integer.MIN_VALUE, Integer.MAX_VALUE);
     System.out.printf("O valor mínimo de short é %d e o valor máximo é %d%n", Short.MIN_VALUE, Short.MAX_VALUE);
