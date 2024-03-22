@@ -1,5 +1,5 @@
 
-public class Programa {
+public class ProgramaAnterior2{
 
 //Exemplo de construtores
     public static void main(String[] args) {
