@@ -1,7 +1,7 @@
 public class Programa {
     public static void main(String[] args) {
 
-        Pessoa p = new Pessoa("Jão");
+        Pessoa p = new Pessoa();
         
 
     Carro uno = new Carro(476);
