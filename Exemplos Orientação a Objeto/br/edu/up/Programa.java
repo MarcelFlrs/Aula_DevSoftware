@@ -1,3 +1,8 @@
+package br.edu.up;
+
+import br.edu.up.models.Carro;
+import br.edu.up.models.Pessoa;
+
 public class Programa {
     public static void main(String[] args) {
 

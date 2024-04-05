@@ -1,8 +1,10 @@
+package br.edu.up.models;
+
 public class Pessoa {
     private String nome;
     private int altura;
     private int peso;
-    
+
     public String getNome() {
         return nome;
     }
